@@ -4,7 +4,7 @@ MAINTAINER duonganhtuan
 
 COPY ./php.ini /usr/local/etc/php/
 
-RUN apk --update add mariadb-client libzip-dev unzip\
+RUN apk --update add mariadb-client libzip-dev unzip npm\
   && docker-php-ext-install pdo_mysql mysqli zip bcmath
 
 #Composer install (latest version)
