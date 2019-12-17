@@ -1,4 +1,9 @@
 # Install Laravel in Docker 🐳
+[![GitHub forks](https://img.shields.io/github/forks/duongtuanqb/Install-Laravel-in-Docker?style=flat-square)](https://github.com/duongtuanqb/Install-Laravel-in-Docker/network)
+[![GitHub stars](https://img.shields.io/github/stars/duongtuanqb/Install-Laravel-in-Docker?style=flat-square)](https://github.com/duongtuanqb/Install-Laravel-in-Docker/stargazers)
+[![GitHub license](https://img.shields.io/github/license/duongtuanqb/Install-Laravel-in-Docker?style=flat-square)](https://github.com/duongtuanqb/Install-Laravel-in-Docker/blob/master/LICENSE)
+![GitHub All Releases](https://img.shields.io/github/downloads/duongtuanqb/Install-Laravel-in-Docker/total?style=flat-square)
+
 ## Docker compose services:
 | Servicer name | Tag |
 |-|-|
